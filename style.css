@@ -1,0 +1,94 @@
+/* body {
+  background-color: white;
+  justify-content: center;
+  display:flex;
+  flex-direction: c;
+}
+
+#pic {
+  width: 100%;
+  height: 80vh;
+  max-width: 80vw;
+  position: absolute;
+  justify-content: left;
+}
+
+#fisthead p{
+  color: black;
+  font-size: 50px;
+} */
+
+
+
+/* #fisthead{
+  width: 100%;
+  height: 50vh;
+  position: absolute;
+}
+
+
+#fisthead p{
+  color: white;
+  font-size: 90px;
+}
+
+#apple{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  top: 50%;
+left: 50%;
+} */
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+#pic {
+  width: 100%;
+  height: 90%;
+   max-height: 80vh;
+    position: relative;
+}
+
+#title-apple {
+  color: antiquewhite;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 10em;
+  top: 20%;
+  left: 30%;
+  position: absolute;
+}
+
+#sec1 {
+  width: 100%;
+  height: 50%;
+}
+
+#recipe-pic{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#p2{
+  padding-top: 50px;
+}
+
+
+.allbody{
+padding: 0 290px;
+font-size: larger;
+
+}
+.allbody img{
+  transform: scale(0.5);
+}
+
+hr{
+  margin: 9px;
+}
